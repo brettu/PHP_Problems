@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	font-size:20px;
+	color:#630;
+	line-height:25px;
+}
+h2 {
+	color:#360;	
+}
+a:link, a:visited {
+	color:#C90;
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;
+}
+#gray {
+    background:#ccc;
+    min-height:50px;
+}

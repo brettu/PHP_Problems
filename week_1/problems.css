@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	font-size:20px;
+	color:#630;
+	line-height:25px;
+}
+h2 { color:#360;}
+h3 { color: #52647d;}
+
+a:link, a:visited {color:#C90;text-decoration:none;}
+a:hover { text-decoration:underline; }
+
+ul { line-height:8px; background-color: #eee; width: 600px;border: thin solid #899e66;}
+li { list-style-type: none; padding-top:10px;border-bottom: thin dotted #003c04; min-height: 36px;}
+
+
+#input{ width:250px; float:right; margin-right:160px; }
+#reg_input { margin-left: 3px ; }
